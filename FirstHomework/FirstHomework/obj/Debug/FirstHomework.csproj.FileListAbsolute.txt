@@ -1,0 +1,6 @@
+c:\users\frederikbak\documents\visual studio 2013\Projects\FirstHomework\FirstHomework\bin\Debug\FirstHomework.exe.config
+c:\users\frederikbak\documents\visual studio 2013\Projects\FirstHomework\FirstHomework\bin\Debug\FirstHomework.exe
+c:\users\frederikbak\documents\visual studio 2013\Projects\FirstHomework\FirstHomework\bin\Debug\FirstHomework.pdb
+c:\users\frederikbak\documents\visual studio 2013\Projects\FirstHomework\FirstHomework\obj\Debug\FirstHomework.csprojResolveAssemblyReference.cache
+c:\users\frederikbak\documents\visual studio 2013\Projects\FirstHomework\FirstHomework\obj\Debug\FirstHomework.exe
+c:\users\frederikbak\documents\visual studio 2013\Projects\FirstHomework\FirstHomework\obj\Debug\FirstHomework.pdb
